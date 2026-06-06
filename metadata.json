@@ -1,0 +1,6 @@
+{
+  "name": "Paper2Code AI",
+  "description": "Upload a research paper PDF to analyze it using Gemini AI and instantly generate a complete implementation roadmap, Python skeletons, architecture summaries, requirements files, and setup instructions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
