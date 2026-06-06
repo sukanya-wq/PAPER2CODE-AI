@@ -1,5 +1,12 @@
 # Paper2Code AI 🚀
 
+LIVE DEOMO LINK : https://paper-2-code-ai.vercel.app/   
+         OPEN THIS LINK AND UPLOAD YOUR GEMINI API KEY.
+         THEN YOU ARE READY TO GOO..
+
+         
+
+
 Paper2Code AI is an interactive, professional-grade platform designed to translate scientific and AI research publications directly into runnable code skeletons, modular repository structure diagrams, dependency manifests, and detailed roadmap plans.
 
 Engineered with React + TypeScript + Tailwind CSS and powered entirely on the client side using the latest Google Gemini LLM, Paper2Code AI simplifies research-to-code translation while maintaining 100% data privacy—no PDF text ever leaves the user's browser, and API keys are stored securely in local browser storage.
